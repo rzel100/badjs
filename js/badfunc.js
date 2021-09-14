@@ -6,7 +6,7 @@ function thisIsBadBruh() {
       document.getElementById("badapple").innerHTML = "Finished !. Thanks For Watching... RzeL... :3";
     } else {
       document.getElementById("badapple").innerHTML = badAppleComment[theFrame];
-    }
+    };
     theFrame += 1;
   }, 33);
-}
+};
